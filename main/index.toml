@@ -1,7 +1,17 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".github/workflows/build.yaml"
+file = "CHANGELOG.md"
+
+[[files]]
+file = "ViaFabricPlus/settings.json"
+
+[[files]]
+file = "config/builtinservers.json"
+
+[[files]]
+file = "mods/builtin-servers.pw.toml"
+metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
@@ -85,6 +95,10 @@ metafile = true
 
 [[files]]
 file = "mods/threadtweak.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/viafabricplus.pw.toml"
 metafile = true
 
 [[files]]

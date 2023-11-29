@@ -1,0 +1,20 @@
+{
+  "badgeVisible": true,
+  "builtinServers": [
+    {
+      "name": "BronyTales",
+      "address": "mc.bronytales.com",
+      "forced": true
+    },
+    {
+      "name": "Love & Tolerance Survival",
+      "address": "mc.love-tolerance.com",
+      "forced": true
+    },
+    {
+      "name": "Love & Tolerance Creative",
+      "address": "ponk.love-tolerance.com",
+      "forced": true
+    }
+  ]
+}
