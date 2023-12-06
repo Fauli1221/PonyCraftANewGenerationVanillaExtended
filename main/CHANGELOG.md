@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.1](https://github.com/Fauli1221/PonyCraftANewGenerationVanilla/compare/main-v1.1.0...main-v1.1.1) (2023-12-06)
+
+
+### ⚘ Modpack Updates
+
+* **main:** updated mods ([123b10f](https://github.com/Fauli1221/PonyCraftANewGenerationVanilla/commit/123b10fe13bf03464366b645908b81c0f7d39c14))
+
 ## [1.1.0](https://github.com/Fauli1221/PonyCraftANewGenerationVanilla/compare/main-v1.0.1...main-v1.1.0) (2023-11-29)
 
 
