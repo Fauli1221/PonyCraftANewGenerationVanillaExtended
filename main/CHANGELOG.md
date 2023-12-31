@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.3](https://github.com/Fauli1221/PonyCraftANewGenerationVanilla/compare/main-v1.1.2-2...main-v1.1.3) (2023-12-31)
+
+
+### ⛭ Miscellaneous
+
+* **main:** release 1.1.3 ([67a2bcc](https://github.com/Fauli1221/PonyCraftANewGenerationVanilla/commit/67a2bcc5b48a828158e48bfddb925cc45b165b7c))
+
 ## [1.1.2](https://github.com/Fauli1221/PonyCraftANewGenerationVanilla/compare/main-v1.1.1...main-v1.1.2) (2023-12-31)
 
 
