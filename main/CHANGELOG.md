@@ -1,5 +1,21 @@
 # Changelog
 
+## 1.1.5 (2024-02-05)
+
+
+### Features
+
+* **modpack/<mod>:** added default Servers (BronyTales and Love & Tolerance) and protocol spoofing to allow players to join Love & Tolerance ([897f52f](https://github.com/Fauli1221/PonyCraftANewGenerationVanilla/commit/897f52f7a03b3227620e5038a2eb9fa99c729636))
+
+
+### Miscellaneous Chores
+
+* **main:** release 1.0.1 ([38a4ca9](https://github.com/Fauli1221/PonyCraftANewGenerationVanilla/commit/38a4ca954ca50c394c8e14b9a771f965a792682d))
+* **main:** release 1.1.2-2 ([11971af](https://github.com/Fauli1221/PonyCraftANewGenerationVanilla/commit/11971af0a612ac532c048b6e5739e08ae2744881))
+* **main:** release 1.1.3 ([67a2bcc](https://github.com/Fauli1221/PonyCraftANewGenerationVanilla/commit/67a2bcc5b48a828158e48bfddb925cc45b165b7c))
+* **main:** release 1.1.4 ([cc43d30](https://github.com/Fauli1221/PonyCraftANewGenerationVanilla/commit/cc43d3094de3436faf3b3fc40973cc6b39cd0f89))
+* **main:** release 1.1.5 ([004595b](https://github.com/Fauli1221/PonyCraftANewGenerationVanilla/commit/004595b7b7454998efeaf36668e07b3edf670879))
+
 ## [1.1.4](https://github.com/Fauli1221/PonyCraftANewGenerationVanilla/compare/main-v1.1.3...main-v1.1.4) (2024-02-04)
 
 
