@@ -33,7 +33,6 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "8e50562a893127e2fae33a6d4c2add54aab7b92af0108f5a26824360a416601a"
 metafile = true
 
 [[files]]
@@ -48,7 +47,6 @@ metafile = true
 
 [[files]]
 file = "mods/hd-skins.pw.toml"
-hash = "a72f9d22199c058b621d49d651dcb6909f211bad7b7327347691a07f4bc6ecb4"
 metafile = true
 
 [[files]]
@@ -58,12 +56,10 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "0c5e71addef34c8dcd1c81dfc2ad851a3e274b9d8d3a7d388e1113d4139bf8d8"
 metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "41a3116f5642d40ed54efda3f863373fa4d3c0c3a24a447a38c8a106e9fbb079"
 metafile = true
 
 [[files]]
@@ -78,12 +74,10 @@ metafile = true
 
 [[files]]
 file = "mods/mine-little-pony.pw.toml"
-hash = "a905a60dc3472f554cde65f8682263379fcb9cffd3c409d8594c0f979520c805"
 metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "1ddc6a247e23e9cb6cafa89d6befd01dd35e36f1347c593d53eccf7f893b942a"
 metafile = true
 
 [[files]]
@@ -98,7 +92,6 @@ metafile = true
 
 [[files]]
 file = "mods/presence-footsteps.pw.toml"
-hash = "7a6c27fcdf9d6e4c25ad433a676357353b8d6125433e7a883de4ddb889767f88"
 metafile = true
 
 [[files]]
@@ -108,7 +101,6 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "9a927c3e0830ba32e1b8a2e543597781724462595b8cce58f676962b442bb52b"
 metafile = true
 
 [[files]]
