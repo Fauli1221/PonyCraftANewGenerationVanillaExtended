@@ -1,0 +1,13 @@
+name = "wayland-fixes"
+filename = "wayland-fixes-1.0.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/fylxngrk/versions/y3bnvkEJ/wayland-fixes-1.0.1.jar"
+hash-format = "sha1"
+hash = "e22890d1a4d56b52d3dcbee501ddd288514594eb"
+
+[update]
+[update.modrinth]
+mod-id = "fylxngrk"
+version = "y3bnvkEJ"

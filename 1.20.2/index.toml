@@ -4,9 +4,6 @@ hash-format = "sha256"
 file = "CHANGELOG.md"
 
 [[files]]
-file = "config/yosbr/ViaFabricPlus/settings.json"
-
-[[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
 
 [[files]]
@@ -108,10 +105,6 @@ metafile = true
 
 [[files]]
 file = "mods/threadtweak.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/viafabricplus.pw.toml"
 metafile = true
 
 [[files]]

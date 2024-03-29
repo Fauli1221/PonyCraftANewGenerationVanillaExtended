@@ -4,9 +4,6 @@ hash-format = "sha256"
 file = "CHANGELOG.md"
 
 [[files]]
-file = "config/yosbr/ViaFabricPlus/settings.json"
-
-[[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
 
 [[files]]
@@ -19,19 +16,14 @@ file = "config/yosbr/config/NoChatReports/NCR-Encryption.json"
 file = "config/yosbr/config/desiredservers/desiredservers.json"
 
 [[files]]
+file = "config/yosbr/servers.dat"
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/desired-servers.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/ebe.pw.toml"
 metafile = true
 
 [[files]]
@@ -95,10 +87,6 @@ file = "mods/presence-footsteps.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/qkl.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/qsl.pw.toml"
 metafile = true
 
@@ -111,15 +99,11 @@ file = "mods/threadtweak.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/viafabricplus.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/vmp-fabric.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/waygl.pw.toml"
+file = "mods/wayland-fixes.pw.toml"
 metafile = true
 
 [[files]]
