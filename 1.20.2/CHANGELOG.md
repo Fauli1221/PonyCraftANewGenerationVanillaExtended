@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.8](https://github.com/Fauli1221/PonyCraftANewGenerationVanilla/compare/v1.1.7...v1.1.8) (2024-03-29)
+
+
+### Miscellaneous Chores
+
+* **main:** release 1.1.8 ([00e83d0](https://github.com/Fauli1221/PonyCraftANewGenerationVanilla/commit/00e83d083a5fc3d956af840f9b329859e828cdf6))
+
 ## [1.1.7](https://github.com/Fauli1221/PonyCraftANewGenerationVanilla/compare/v1.1.6...v1.1.7) (2024-03-21)
 
 
