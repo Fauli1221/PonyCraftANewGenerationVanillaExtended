@@ -103,9 +103,5 @@ file = "mods/vmp-fabric.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/wayland-fixes.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/yosbr.pw.toml"
 metafile = true
