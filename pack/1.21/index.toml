@@ -22,10 +22,6 @@ file = "config/yosbr/config/desiredservers/desiredservers.json"
 file = "config/yosbr/servers.dat"
 
 [[files]]
-file = "mods/badoptimizations.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/c2me-fabric.pw.toml"
 metafile = true
 
