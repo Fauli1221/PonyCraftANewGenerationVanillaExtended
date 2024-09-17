@@ -9,7 +9,7 @@ hash-format = "sha256"
 
 [versions]
 minecraft = "1.21.1"
-quilt = "0.26.4-beta.6"
+quilt = "0.26.4"
 
 [options]
 acceptable-game-versions = ["1.21"]

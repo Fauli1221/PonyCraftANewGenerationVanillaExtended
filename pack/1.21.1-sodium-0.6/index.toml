@@ -58,10 +58,6 @@ file = "mods/iris.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/journeymap.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/krypton.pw.toml"
 metafile = true
 
@@ -94,7 +90,27 @@ file = "mods/qsl.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/sodium-dynamic-lights.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/sodium-shadowy-path-blocks.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/sodiumleafculling.pw.toml"
 metafile = true
 
 [[files]]
@@ -103,6 +119,14 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap-fair.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
 metafile = true
 
 [[files]]
