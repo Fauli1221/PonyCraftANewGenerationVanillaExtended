@@ -19,6 +19,9 @@ file = "config/yosbr/config/ViaFabricPlus/settings.json"
 file = "config/yosbr/config/desiredservers/desiredservers.json"
 
 [[files]]
+file = "config/yosbr/config/sodiumextras-client.toml"
+
+[[files]]
 file = "config/yosbr/servers.dat"
 
 [[files]]
@@ -39,6 +42,10 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
 metafile = true
 
 [[files]]
@@ -86,11 +93,11 @@ file = "mods/presence-footsteps.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/qsl.pw.toml"
+file = "mods/reeses-sodium-options.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/reeses-sodium-options.pw.toml"
+file = "mods/sodium-core-shader-support.pw.toml"
 metafile = true
 
 [[files]]
@@ -99,6 +106,14 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extras.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/sodium-options-api.pw.toml"
 metafile = true
 
 [[files]]

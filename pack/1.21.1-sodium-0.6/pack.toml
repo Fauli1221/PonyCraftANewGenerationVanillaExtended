@@ -1,6 +1,6 @@
 name = "Pony Craft a New Generation Vanilla"
 author = "Fauli1221"
-version = "1.2.4-1.21.1-sodium-0.6"
+version = "1.2.5-1.21.1-sodium-0.6"
 pack-format = "packwiz:1.1.0"
 
 [index]
@@ -8,8 +8,8 @@ file = "index.toml"
 hash-format = "sha256"
 
 [versions]
+fabric = "0.16.5"
 minecraft = "1.21.1"
-quilt = "0.26.4"
 
 [options]
 acceptable-game-versions = ["1.21"]
