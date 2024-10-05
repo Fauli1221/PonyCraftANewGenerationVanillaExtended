@@ -1,0 +1,13 @@
+name = "Celestria"
+filename = "celestria-fabric-2.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/GoCfVRkX/versions/vz64cT5u/celestria-fabric-2.0.0.jar"
+hash-format = "sha1"
+hash = "ffa61e26e224a6160f2eb3ff958e4ee10d0f9b89"
+
+[update]
+[update.modrinth]
+mod-id = "GoCfVRkX"
+version = "vz64cT5u"

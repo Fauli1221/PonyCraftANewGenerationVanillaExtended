@@ -1,0 +1,13 @@
+name = "Sky Aesthetics"
+filename = "sky_aesthetics-fabric-1.2.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/2zaNpyqY/versions/dPR30S56/sky_aesthetics-fabric-1.2.2.jar"
+hash-format = "sha1"
+hash = "e0c67c28e7313b66f117129a9a1389c34a7dd1b0"
+
+[update]
+[update.modrinth]
+mod-id = "2zaNpyqY"
+version = "dPR30S56"

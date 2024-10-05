@@ -1,0 +1,13 @@
+name = "Show Me Your Ponies!"
+filename = "showmeyourponies-1.0.0+1.20.5.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/u4AW2clL/versions/Sx0rXhVs/showmeyourponies-1.0.0%2B1.20.5.jar"
+hash-format = "sha1"
+hash = "b5ee2c63a77f2898bfc0e473e194b2dc2c511ef5"
+
+[update]
+[update.modrinth]
+mod-id = "u4AW2clL"
+version = "Sx0rXhVs"
