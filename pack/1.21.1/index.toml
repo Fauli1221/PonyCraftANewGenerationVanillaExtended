@@ -72,10 +72,6 @@ file = "mods/capes.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/celestria.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/chat-heads.pw.toml"
 metafile = true
 
@@ -97,10 +93,6 @@ metafile = true
 
 [[files]]
 file = "mods/cubes-without-borders.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/custom-crosshair-mod.pw.toml"
 metafile = true
 
 [[files]]
@@ -296,6 +288,10 @@ file = "mods/reeses-sodium-options.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/replanter.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/seamless-loading-screen.pw.toml"
 metafile = true
 
@@ -357,6 +353,10 @@ metafile = true
 
 [[files]]
 file = "mods/stackdeobf.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/symbol-chat.pw.toml"
 metafile = true
 
 [[files]]
